@@ -1,0 +1,23 @@
+{
+  "status": "200 OK",
+  "body": {
+    "source": {
+      "name": "入口",
+      "path": "C:\\Users\\lala1\\OneDrive\\桌面\\JAVA\\project\\python_linebot\\zoo_project\\src\\zoo_project\\static\\",
+      "animals": []
+    },
+    "destination": {
+      "name": "水獺聖地",
+      "path": "C:\\Users\\lala1\\OneDrive\\桌面\\JAVA\\project\\python_linebot\\zoo_project\\src\\zoo_project\\static\\1630838976_45787.jpg",
+      "animals": [
+        {
+          "name": "亞洲小爪水獺",
+          "habitat": "水獺聖地",
+          "path": "C:\\Users\\lala1\\OneDrive\\桌面\\JAVA\\project\\python_linebot\\zoo_project\\src\\zoo_project\\static\\ari75-wh3e1.jpg",
+          "content": "        亞洲小爪水獺（學名Aonyx cinerea、oriental small-clawed otter、 Asian small-clawed otter），又名小爪水獺，是一種小型水獺。主要分佈於孟加拉國、印度、中國、中南半島、馬來半島、印度尼西亞和菲律賓等地區的濕地附近。亞洲小爪水獺一般體長0.9米（包括尾巴），體重可達5公斤。以魚、蛙、蟹、螯蝦和貝類為食。"
+        }
+      ]
+    },
+    "path": "C:\\Users\\lala1\\OneDrive\\桌面\\JAVA\\project\\python_linebot\\zoo_project\\src\\zoo_project\\static\\mapF.jpg"
+  }
+}

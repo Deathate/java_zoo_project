@@ -1,0 +1,53 @@
+{
+    "type": "bubble",
+    "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+            {
+                "type": "text",
+                "text": "The map to",
+                "weight": "bold",
+                "color": "#1DB446",
+                "size": "md"
+            },
+            {
+                "type": "text",
+                "text": "水之谷",
+                "align": "center",
+                "weight": "bold",
+                "size": "xxl",
+                "margin": "md"
+            },
+            {
+                "type": "separator",
+                "margin": "md"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "margin": "none",
+                "spacing": "sm",
+                "contents": [
+                    {
+                        "type": "image",
+                        "url": "https://raw.githubusercontent.com/chuyinlee/java/main/mapA.jpg",
+                        "margin": "md",
+                        "aspectRatio": "3.57:7.6",
+                        "aspectMode": "cover",
+                        "size": "full"
+                    }
+                ]
+            },
+            {
+                "type": "separator",
+                "margin": "md"
+            }
+        ]
+    },
+    "styles": {
+        "footer": {
+            "separator": true
+        }
+    }
+}

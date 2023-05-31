@@ -1,0 +1,87 @@
+{
+    "type": "carousel",
+    "contents": [
+        {
+            "type": "bubble",
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "image",
+                        "url": "https://tw.kobe-oukoku.com/wp-content/uploads/2020/08/Miniature-Pig-285x176.jpg",
+                        "size": "full",
+                        "gravity": "top",
+                        "aspectRatio": "2.85:1.76",
+                        "aspectMode": "cover"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "松鼠",
+                                        "size": "xxl",
+                                        "color": "#ffffff",
+                                        "weight": "bold"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "斑海豹也叫大齒斑海豹、大齒海豹，是一種在在北半球的西北太平洋分布的海豹。斑海豹分布的西北太平洋的高緯度寒冷水域，主要分布在楚科奇海、白令海、鄂霍次克海、日本海和中國的渤海、黃海北部。斑海豹身體呈紡錘形，頭圓生有觸鬚，沒有外耳廓。四肢特化成鰭腳，趾間有蹼。雌性斑海豹體型大於雄性。出生的小海豹全身被白色的胎毛包裹。斑海豹每年都要換毛。它們有洄游的行為，食物主要為魚類和頭足類。3年以後達到性成熟，為一雄多雌生殖型，在每年的1~3月份繁殖，產仔在浮冰上，每胎產一仔。",
+                                        "color": "#ffffff",
+                                        "wrap": true
+                                    }
+                                ],
+                                "cornerRadius": "4px",
+                                "spacing": "xs",
+                                "borderColor": "#ffffff",
+                                "margin": "xxl"
+                            }
+                        ],
+                        "position": "relative",
+                        "offsetBottom": "0px",
+                        "offsetStart": "0px",
+                        "offsetEnd": "0px",
+                        "backgroundColor": "#9C8E7Ecc",
+                        "paddingAll": "20px",
+                        "paddingTop": "18px"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "水之谷",
+                                "color": "#FFFFFF",
+                                "align": "center",
+                                "size": "md",
+                                "offsetTop": "3px",
+                                "weight": "bold"
+                            }
+                        ],
+                        "position": "absolute",
+                        "cornerRadius": "20px",
+                        "offsetTop": "18px",
+                        "backgroundColor": "#FF0000",
+                        "offsetStart": "18px",
+                        "height": "30px",
+                        "width": "100px"
+                    }
+                ],
+                "paddingAll": "0px"
+            }
+        }
+    ]
+}

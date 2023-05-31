@@ -1,0 +1,104 @@
+{
+    "type": "bubble",
+    "hero": {
+        "type": "image",
+        "url": "https://tw.kobe-oukoku.com/wp-content/uploads/2017/04/17_kobeanimalkingdom_mob.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover"
+    },
+    "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "md",
+        "contents": [
+            {
+                "type": "text",
+                "text": "ZOO門票",
+                "wrap": true,
+                "weight": "bold",
+                "gravity": "center",
+                "size": "xl"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "margin": "lg",
+                "spacing": "sm",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "spacing": "sm",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "Date",
+                                "color": "#aaaaaa",
+                                "size": "sm",
+                                "flex": 1
+                            },
+                            {
+                                "type": "text",
+                                "wrap": true,
+                                "size": "sm",
+                                "color": "#666666",
+                                "flex": 4,
+                                "text": "2023-11-03"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "spacing": "sm",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "Type",
+                                "color": "#aaaaaa",
+                                "size": "sm",
+                                "flex": 1
+                            },
+                            {
+                                "type": "text",
+                                "text": "成人票",
+                                "wrap": true,
+                                "color": "#666666",
+                                "size": "sm",
+                                "flex": 4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "margin": "xxl",
+                "contents": [
+                    {
+                        "type": "image",
+                        "url": "https://raw.githubusercontent.com/Deathate/java_zoo_project/main/static/zoo_pass_qrcode.png",
+                        "size": "4xl",
+                        "margin": "md"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Scan this QR Code with scanner",
+                        "align": "center",
+                        "color": "#aaaaaa",
+                        "wrap": true,
+                        "margin": "xxl",
+                        "size": "xs"
+                    }
+                ]
+            }
+        ]
+    },
+    "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": []
+    }
+}
